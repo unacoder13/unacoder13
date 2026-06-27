@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=28&center=true&vCenter=true&width=500&height=70&color=CBC3E3&duration=2000&lines=Hi+There!+👋;+I'm+Anthony+:);" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=28&center=true&vCenter=true&width=500&height=70&color=c21512&duration=2000&lines=Hi+There!+👋;+I'm+Anthony+:);" />
 </h1> 
 Game Engine Developer | Graphics Programmer | C++
 
