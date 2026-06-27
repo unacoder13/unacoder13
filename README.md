@@ -1,10 +1,10 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=28&center=true&vCenter=true&width=500&height=70&color=CBC3E3&duration=2000&lines=Hi+There!+👋;+I'm+Anthony!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=28&center=true&vCenter=true&width=500&height=70&color=CBC3E3&duration=2000&lines=Hi+There!+👋;+I'm+Anthony+:);" />
 </h1> 
 Game Engine Developer | Graphics Programmer | C++
 
 ##  About Me
-I'm passionate about computer graphics, game engine architecture, and real-time rendering. how games are built from the ground.
+I'm passionate about game engine architecture, computer graphics, and real-time rendering. how games are built from the ground.
 
 I enjoy working on:
 -  Game engine architecture
