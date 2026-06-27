@@ -15,6 +15,8 @@ I enjoy working on:
 
 My goal is to build deeper technical understanding of how real-time interactive worlds are created.
 Currently building projects to better understand how modern graphics APIs and GPUs work under the hood.
+I believe games are built at the intersection of engineering and art.  
+My focus is not just on making things work, but understanding **why they work**, and how to push real-time systems further.
 
 ##  Tech Stack
 
@@ -25,11 +27,6 @@ Currently building projects to better understand how modern graphics APIs and GP
 
 ##  Screenshots / Demos
 
-
-##  Philosophy
-
-I believe games are built at the intersection of engineering and art.  
-My focus is not just on making things work, but understanding **why they work**, and how to push real-time systems further.
 
 ##  Contact
 
