@@ -6,7 +6,7 @@ I'm passionate about computer graphics, game engine architecture, and real-time 
 
 I enjoy working on:
 - 🧠 Game engine architecture
-- 🎨 Graphics programming (OpenGL / Vulkan / shaders)
+- 🎨 Graphics programming 
 - 🎮 Gameplay systems and mechanics
 - 🧪 Prototyping experimental game ideas
 - ⚙️ Performance optimization and low-level systems
