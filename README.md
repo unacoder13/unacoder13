@@ -14,7 +14,7 @@ I enjoy working on:
 -  Performance optimization and low-level systems
 
 My goal is to build deeper technical understanding of how real-time interactive worlds are created.
-Currently building projects to better understand how modern graphics APIs and GPUs work under the hood.
+Currently building projects to better understand how modern graphics APIs and GPUs work under the hood.  
 I believe games are built at the intersection of engineering and art.  
 My focus is not just on making things work, but understanding **why they work**, and how to push real-time systems further.
 
