@@ -1,5 +1,5 @@
-👋 Hi, I'm Anthony
-🎮 Graphics Programmer | Game Engine Developer | C++
+Hi, I'm Anthony  
+Graphics Programmer | Game Engine Developer | C++
 
 ## 🐱 About Me
 I'm passionate about computer graphics, game engine architecture, and real-time rendering. how games are built from the ground.
@@ -20,6 +20,9 @@ Currently building projects to better understand how modern graphics APIs and GP
 - Graphics: OpenGL / Vulkan
 - Engines: Custom engine / Unity / Godot
 - Tools: Git, CMake, Blender, ImGui
+
+## 📸 Screenshots / Demos
+
 
 ## 🎯 Philosophy
 
